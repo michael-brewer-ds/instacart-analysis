@@ -1,4 +1,4 @@
-# Instacart Exploratory Data Analysis
+# Exploratory Data Analysis for Instacart
 
 ## Overview
 This project analyzes Instacart order data to understand customer purchasing behavior, basket composition, and reorder patterns. The analysis follows a full exploratory workflow, moving from raw data inspection through cleaning, transformation, and insight generation.
